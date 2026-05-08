@@ -34,10 +34,10 @@ Android Studio, Visual Studio Code, Eclipse, Git, Firebase Console
 ### Connect With Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/rahul-kunainta-a7a238397](https://www.linkedin.com/in/abhishek-kumar-068150323/)" target="_blank">
+  <a href=" https://www.linkedin.com/in/abhishek-kumar-068150323" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/kunainta_/" target="_blank">
+  <a href=" https://www.instagram.com/abhi.maurya85?utm_source=qr&igsh=cXBiYjlsOGpic21m" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:rahulkunainta1@gmail.com">
