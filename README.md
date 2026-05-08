@@ -40,7 +40,7 @@ Android Studio, Visual Studio Code, Eclipse, Git, Firebase Console
   <a href=" https://www.instagram.com/abhi.maurya85?utm_source=qr&igsh=cXBiYjlsOGpic21m" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:rahulkunainta1@gmail.com">
+  <a href="mailto:abhishekkumar91967@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
