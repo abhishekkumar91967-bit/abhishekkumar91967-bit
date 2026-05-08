@@ -1,16 +1,49 @@
-## Hi there 👋
+About Me
 
-<!--
-**abhishekkumar91967-bit/abhishekkumar91967-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Abhishek Kumar  passionate Java developer with a strong foundation in Object-Oriented Programming and Data Structures. I have hands-on experience with Spring Boot, Hibernate, and database management using MySQL and PostgreSQL. I am also familiar with frontend technologies like HTML, CSS & JavaScript and has worked with Firebase services. I am eager to build scalable applications and continuously improve my development skills.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="cartoon coder animation"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+
+Programming Languages:
+Java, JavaScript, SQL, Kotlin(Basic), C/C++(Basic), Python (Basic)
+
+Frameworks & Technologies:
+Spring Boot, Hibernate (JPA)
+
+Databases:
+MySQL, PostgreSQL, Firebase (Firestore, Realtime Database)
+
+Frontend Development:
+HTML, CSS, JavaScript, Material Design, XML Layouts
+
+Backend & Services:
+RESTful APIs, Firebase Authentication, Cloud Storage
+
+Core Concepts:
+Object-Oriented Programming (OOP), Data Structures & Algorithms
+
+Tools & IDEs:
+Android Studio, Visual Studio Code, Eclipse, Git, Firebase Console
+ 
+
+### Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-kunainta-a7a238397" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/kunainta_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:rahulkunainta1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+ 
